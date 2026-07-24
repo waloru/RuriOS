@@ -1,0 +1,11 @@
+{
+  "name": "@rurios/core",
+  "version": "0.2.0",
+  "description": "An intelligence layer for Robinhood Chain. Research, analyze, execute.",
+  "license": "MIT",
+  "type": "module",
+  "keywords": ["robinhood-chain", "onchain-intelligence", "defi", "rurios"],
+  "homepage": "https://rurios.xyz",
+  "repository": { "type": "git", "url": "https://github.com/waloru/RuriOS.git" },
+  "files": ["src", "docs"]
+}
