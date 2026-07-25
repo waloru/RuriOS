@@ -81,9 +81,21 @@ core/
 
 See [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the pieces fit together.
 
-## Status
+## Token
 
-Pre-launch. The `$RURI` token is not deployed yet. When it is, it will be announced here and on [@userurios](https://x.com/userurios) first. Ignore any contract address you see before then.
+`$RURI` is live on Robinhood Chain.
+
+| | |
+|---|---|
+| Name | Ruri OS |
+| Symbol | RURI |
+| Contract | `0xdb3d5cb21757890cd417db48a2242499619fc5b2` |
+| Chain | Robinhood Chain (4663) |
+
+- [View on Blockscout](https://robinhoodchain.blockscout.com/token/0xdb3d5cb21757890cd417db48a2242499619fc5b2)
+- [Live market](https://www.geckoterminal.com/robinhood/pools/0x2f80b6534958055c2ad946f1ede6a3ff4a7b3f8c)
+
+This is the only official contract address. It is published here and on [rurios.xyz](https://rurios.xyz), and announced only from [@userurios](https://x.com/userurios). Any other address claiming to be RURI is a scam, and we will never send you one in a DM.
 
 ## License
 
