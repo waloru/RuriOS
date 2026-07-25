@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://rurios.xyz">rurios.xyz</a> ·
-  <a href="https://x.com/RuriOS">@RuriOS</a> ·
+  <a href="https://x.com/userurios">@userurios</a> ·
   <a href="https://robinhoodchain.blockscout.com/">Explorer</a>
 </p>
 
@@ -83,7 +83,7 @@ See [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the pieces fit toge
 
 ## Status
 
-Pre-launch. The `$RURI` token is not deployed yet. When it is, it will be announced here and on [@RuriOS](https://x.com/RuriOS) first. Ignore any contract address you see before then.
+Pre-launch. The `$RURI` token is not deployed yet. When it is, it will be announced here and on [@userurios](https://x.com/userurios) first. Ignore any contract address you see before then.
 
 ## License
 
